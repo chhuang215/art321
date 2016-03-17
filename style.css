@@ -1,0 +1,68 @@
+html,body{
+	color:white;
+	font-family: 'Open Sans', sans-serif;
+    font-size:17px;
+	background: grey;
+    height:100%;
+}
+
+.mainContainer{
+	width:100%;
+	margin:0;
+}
+
+.mainContainer > .col-sm-2{
+	background: #202024 repeat left top;
+	padding-left: 0;
+	padding-right: 0;
+	height:100%;
+}
+
+
+.menu .wk{
+	font-size: 13px;
+
+}
+
+.menu li:hover a{
+	color:black;
+
+}
+
+.menu ul > li.active > a{
+    background:darkred;
+}
+
+.menu ul > li.active > a:hover{
+    background:darkred;
+}
+
+.menu li {
+  border-bottom: 1px solid #636366;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 34px;
+
+}
+
+.menu a {
+  color: #fff;
+  font-size: 16px;
+
+}
+
+.menu .active{
+	color:black;
+
+}
+
+.menu .active a{
+    font-weight: bold;
+}
+
+
+.menu {
+  background: #202024 repeat left top;
+	width:100%;
+	padding-left: 0;
+	padding-right: 0;
+}

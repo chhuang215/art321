@@ -1,0 +1,83 @@
+.container{
+  width:95%;
+}
+audio{
+  width:90%;
+
+}
+#radioScript{
+
+    background: rgba(57, 77, 163, 1);
+    max-width: 800px;
+    padding:12px;
+    margin: -45px auto 0 auto;
+    border-radius: 10px;
+}
+
+
+#radioScript p, .scriptSection{
+    font-size: 15px;
+    font-family: Courier;
+}
+
+.btn-ref{
+  float: right;
+
+}
+.title{
+  padding:7px 50px 50px 50px;
+  background: rgb(111, 108, 59);
+  border-radius:9px;
+}
+
+.scriptSection {
+  padding:5px 15px;
+}
+
+.scriptSection > div{
+  margin:1px 0;
+  padding:10px ;
+}
+
+.centre{
+  text-align: center;
+}
+
+.highlight-line{
+  color:yellow;
+  font-weight: bold;
+  background: rgba(0, 0, 0, 0.32);
+}
+
+.highlight-section{
+  background:rgba(0, 0, 0, 0.3);
+}
+
+.affix{
+  top:5px;
+
+}
+
+@media (min-width: 751px){
+  .centre-xs{
+    text-align: center;
+  }
+  .affix{
+      width:73%;
+      left:23%;
+  }
+}
+
+@media (max-width: 970px){
+  .centre-xs{
+    text-align: center;
+  }
+}
+
+
+@media (max-width: 750px){
+  .affix{
+      width:75%;
+      left:14%;
+  }
+}

@@ -1,0 +1,41 @@
+.tab-content{
+
+	background: url("img/background.jpg");
+	background-size: cover; 
+    height:100%;
+	
+}
+
+.container{
+    width:90%;
+    padding:10px;
+}
+
+.tab-pane > .container{
+    background:rgba(0,0,0,0.74);
+}
+
+.topmenu > li.active > a, .topmenu > li.active > a:hover, .topmenu > li.active > a:focus {
+    background:#fcd900;
+    color:black;
+    
+}
+
+.topmenu{
+    background:rgba(0,0,0,.3);
+}
+
+.topmenu a{
+    color:white;
+    font-size: large;
+}
+
+.topmenu a:hover{
+    color:black;
+}
+
+.topmenu li{
+    border:3px solid brown;
+}
+
+
