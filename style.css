@@ -3,6 +3,8 @@ html,body{
 	font-family: 'Open Sans', sans-serif;
     font-size:17px;
 	background: grey;
+	background-image: linear-gradient(to bottom, #808080, #272b3c 100%);
+	background-attachment: fixed;
     height:100%;
 }
 
@@ -17,7 +19,6 @@ html,body{
 	padding-right: 0;
 	height:100%;
 }
-
 
 .menu .wk{
 	font-size: 13px;
