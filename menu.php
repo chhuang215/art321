@@ -9,7 +9,7 @@
         <li ><a <?php echo 'href='.ROOT_PATH.'/week5'?>><div class="wk">Week5</div>Animation</a></li>
         <li ><a <?php echo 'href='.ROOT_PATH.'/week6'?>><div class="wk">Week6</div>Radio Show</a></li>
         <li ><a <?php echo 'href='.ROOT_PATH.'/week7'?>><div class="wk">Week7</div>Turtle Graphics</a></li>
-        <li ><a href="#">week9</a></li>
-        <li ><a href="#">week10</a></li>
+        <li ><a <?php echo 'href='.ROOT_PATH.'/week9'?>><div class="wk">week9</div></a></li>
+        <li ><a <?php echo 'href='.ROOT_PATH.'/week10'?>><div class="wk">week10</div></a></li>
     </ul>
 </div>
