@@ -26,8 +26,14 @@
         <div class="col-sm-10">
             <div  class="container">
 							<br>
-                <h2>Filming in Progress...</h2>
+                <h1>Video</h1>
 
+									<div class="embed-responsive embed-responsive-4by3" style="margin:10px; text-align:center;">
+									<video style="max-height: 480px; max-width:640px; margin:0 auto;" class="embed-responsive-item" controls poster>
+											<source src="media/video.mp4" width="640" height="480" type="video/mp4">
+											Your browser does not support html video tag.
+									</video>
+									</div>
             </div>
 				</div>
     </div>
