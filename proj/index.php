@@ -25,7 +25,7 @@
 						<div class="">
 							<h1>FINAL PROJECT</h1>
 
-	            <a href="http://musicmixer.herokuapp.com/"><h3>Project Link</h3></a>
+	            <a href="http://musicmixer.herokuapp.com/"><h3>Project Link</h3></a> (Due to Heroku's free hosting plan, it might take few minutes to wake up server since the server goes to sleep after certain inactive time period)<br>
 
 							<a href="https://github.com/gemhuang21519992/MusicMixer" target="_blank"><p>Source</p></a>
 						</div>
