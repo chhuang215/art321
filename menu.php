@@ -11,5 +11,6 @@
         <li ><a <?php echo 'href='.ROOT_PATH.'/week7'?>><div class="wk">Week7</div>Turtle Graphics</a></li>
         <li ><a <?php echo 'href='.ROOT_PATH.'/week9'?>><div class="wk">week9</div>Video</a></li>
         <li ><a <?php echo 'href='.ROOT_PATH.'/week10'?>><div class="wk">week10</div></a></li>
+        <li ><a <?php echo 'href='.ROOT_PATH.'/proj'?>><div class="wk">PROJECT</div></a></li>
     </ul>
 </div>

@@ -21,6 +21,7 @@
 	            <h2>Chih-Hsuan Huang</h2>
 	            <h2>Art 321</h2>
 	            <h3>Winter 2016</h3>
+							<h3 ><a style="color:rgb(102, 182, 255)" href="proj">Final Project</a></h3>
 	        </div>
 
 	    </div>
